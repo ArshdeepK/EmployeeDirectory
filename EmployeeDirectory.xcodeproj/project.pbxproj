@@ -24,7 +24,6 @@
 		A807DECF2A5E46E00065381A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A807DECE2A5E46E00065381A /* Constants.swift */; };
 		A80F29E22A5FAA3B00500C87 /* NetworkMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80F29E12A5FAA3B00500C87 /* NetworkMonitor.swift */; };
 		A8108A602A61CE110059F760 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A8108A5F2A61CE110059F760 /* README.md */; };
-		A8879C692AF984C200F55A98 /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A8879C682AF984C200F55A98 /* .gitignore.rtf */; };
 		A8B86A112A60FABA00906DEF /* NetworkClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B86A102A60FABA00906DEF /* NetworkClient.swift */; };
 		A8B86A162A613AB800906DEF /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B86A152A613AB800906DEF /* StringExtensions.swift */; };
 		A8B86A172A613B1300906DEF /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A8B86A192A613B1300906DEF /* Localizable.strings */; };
@@ -74,7 +73,6 @@
 		A807DECE2A5E46E00065381A /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		A80F29E12A5FAA3B00500C87 /* NetworkMonitor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkMonitor.swift; sourceTree = "<group>"; };
 		A8108A5F2A61CE110059F760 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		A8879C682AF984C200F55A98 /* .gitignore.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = "<group>"; };
 		A8B86A102A60FABA00906DEF /* NetworkClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkClient.swift; sourceTree = "<group>"; };
 		A8B86A152A613AB800906DEF /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
 		A8B86A182A613B1300906DEF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -145,7 +143,6 @@
 				A807DE872A5E1D1C0065381A /* Products */,
 				7D462023B82935990B046916 /* Pods */,
 				A4A7D37A6BFF12909D9FA804 /* Frameworks */,
-				A8879C682AF984C200F55A98 /* .gitignore.rtf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -386,7 +383,6 @@
 				A8B86A172A613B1300906DEF /* Localizable.strings in Resources */,
 				A8108A602A61CE110059F760 /* README.md in Resources */,
 				A807DE932A5E1D1E0065381A /* Assets.xcassets in Resources */,
-				A8879C692AF984C200F55A98 /* .gitignore.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
