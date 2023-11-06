@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "44E1B2DF-BF36-4B28-A2B1-7CDA913B7815"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76FAC1FC-AF3A-4176-B9D5-2C06FC74A733"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/View Models/EmployeeListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "createEmployeesList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76FAC1FC-AF3A-4176-B9D5-2C06FC74A733 - 3691e480fb527a7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmployeeDirectory.EmployeeListViewModel.createEmployeesList() -&gt; ()"
+                  moduleName = "EmployeeDirectory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Arshdeep-Personal-Workspace/EmployeeDirectoryApp/FinalCode/EmployeeDirectory/EmployeeDirectory/View%20Models/EmployeeListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "313">
+               </Location>
+               <Location
+                  uuid = "76FAC1FC-AF3A-4176-B9D5-2C06FC74A733 - cf7fea4cc06ed564"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (EmployeeDirectory.EmployeeCellViewModel) -&gt; Swift.String in EmployeeDirectory.EmployeeListViewModel.createEmployeesList() -&gt; ()"
+                  moduleName = "EmployeeDirectory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Arshdeep-Personal-Workspace/EmployeeDirectoryApp/FinalCode/EmployeeDirectory/EmployeeDirectory/View%20Models/EmployeeListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1E407FC-0B95-491A-A9AB-AC7BA3C6C2CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/View Models/EmployeeListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "createEmployeesList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E89E613-F10F-42FF-968E-C7434F6B6A70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/View Models/EmployeeListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "fetchEmployees(withListType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  EmployeeDirectory
+
+  Created by Arshdeep on 2023-07-14.
+  
+*/
+
+"Employee Directory" = "Employee Directory";
+"Contact No" = "Contact No";
+"The Internet connection appears to be offline." = "The Internet connection appears to be offline.";
+"No employees found." = "No employees found.";
+"Malformed employees found." = "Malformed employees found.";

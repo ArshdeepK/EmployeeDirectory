@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "42FD23C6-C02F-40D7-B9BE-C1995BCE15C2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E5493A5-638B-4016-AE6F-E13F6496E439"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/View Models/EmployeeListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "refreshEmployeeList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9B30A0F-1AD9-42F4-9FD3-9198B49F1C11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/Screens/EmployeeListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "refreshEmployeeList(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D396DD1F-689C-41EE-93A0-9C9171B1AF91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/View Models/EmployeeListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "refreshEmployeeList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "972D2427-6809-431C-8A99-4BB9E4704D16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/View Models/EmployeeListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "handleSuccessResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EEB07ED-F82F-40DB-8AF3-B1ADC636A741"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/Screens/EmployeeListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA9D25F2-DB85-4F9F-B158-97D5A6E44A00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/Views/ErrorStateTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "904AF6A4-DA6F-4109-AED0-B017C20C846C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/Screens/EmployeeListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "reloadTableViewClosure()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C886BCF7-191E-4122-AD30-BB7AB7B5293D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/Networking/Request.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "perform(for:url:parameters:method:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C886BCF7-191E-4122-AD30-BB7AB7B5293D - 8098f20ca814f655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmployeeDirectory.Request.perform&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(for: &#x3c4;_0_0.Type, url: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, method: EmployeeDirectory.Request.HTTPMethod, completion: (EmployeeDirectory.Request.Result&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "EmployeeDirectory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Arshdeep-Personal-Workspace/Employee%20Directory%20App/Code/EmployeeDirectory/EmployeeDirectory/Networking/Request.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "603">
+               </Location>
+               <Location
+                  uuid = "C886BCF7-191E-4122-AD30-BB7AB7B5293D - 8098f20ca814f655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmployeeDirectory.Request.perform&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(for: &#x3c4;_0_0.Type, url: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, method: EmployeeDirectory.Request.HTTPMethod, completion: (EmployeeDirectory.Request.Result&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "EmployeeDirectory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Arshdeep-Personal-Workspace/Employee%20Directory%20App/Code/EmployeeDirectory/EmployeeDirectory/Networking/Request.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "681">
+               </Location>
+               <Location
+                  uuid = "C886BCF7-191E-4122-AD30-BB7AB7B5293D - 8098f20ca814f655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmployeeDirectory.Request.perform&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(for: &#x3c4;_0_0.Type, url: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, method: EmployeeDirectory.Request.HTTPMethod, completion: (EmployeeDirectory.Request.Result&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "EmployeeDirectory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Arshdeep-Personal-Workspace/Employee%20Directory%20App/Code/EmployeeDirectory/EmployeeDirectory/Networking/Request.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1914">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D6B8D6C-847C-4897-95AC-6CD5DDBBDF63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/View Models/EmployeeListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "fetchEmployees(withListType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A35C315B-DD23-4803-9D3A-B20291330DB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeDirectory/Screens/EmployeeListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "init(viewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
